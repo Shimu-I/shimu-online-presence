@@ -23,6 +23,7 @@
 | **YouTube** | [@shimu-8](https://www.youtube.com/@shimu-8/videos) | 🔴 Content |
 | **Pinterest** | [Pinterest Profile](https://pin.it/583bsVlPQ) | 🎨 Creative |
 | **Discord** | `shimu_v` | 💬 Contact |
+| **Portfolio** | []() | |
 
 <br/>
 
