@@ -23,7 +23,8 @@
 | **YouTube** | [@shimu-8](https://www.youtube.com/@shimu-8/videos) | 🔴 Content |
 | **Pinterest** | [Pinterest Profile](https://pin.it/583bsVlPQ) | 🎨 Creative |
 | **Discord** | `shimu_v` | 💬 Contact |
-| **Portfolio** | []() | |
+| **LeetCode** | `shimu__` | [LINK](https://leetcode.com/u/Iu5vcz4X83/) |
+| **Portfolio** | Shimu's Portfolio |[LINK]()  |
 
 <br/>
 
@@ -38,15 +39,13 @@
 ### 💡 Personal Growth & Hobbies
 | Category | Reference | Purpose |
 | :--- | :--- | :--- |
-| **Reading** | `let_me_read_it_4u` | Book Archiving |
 | **Growth** | `stets_neugierig` | Personal Development |
+| **Reading** | `let_me_read_it_4u` | Book Archiving |
+| **Reading** | `shimu_original`| Book Archiving  |
+| **Reading** | [Good Reads](https://www.goodreads.com/user/show/180482684-jasmin-sultana-shimu) | Reading Tracker |
+| **Reading** | [Fable](fable.co/fabler/jasmin-sultana-shimu-347736778901) | Reading Tracker |
 
-<br/>
 
-### 📊 GitHub Insights
-| Ecosystem Statistics | Top Languages |
-| :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Shimu-I&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimu-I&layout=compact&theme=transparent&hide_border=true&title_color=0077B5) |
 
 ---
 
